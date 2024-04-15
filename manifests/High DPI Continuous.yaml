@@ -11,5 +11,5 @@ url: https://github.com/endless-sky/endless-sky-high-dpi/archive/e2bf25cb86dc356
 iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/e2bf25cb86dc356ad18a99b6b5a0ae629fe22a50/icon.png
 autoupdate:
   type: commit
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/$version.zip
+  url: https://github.com/endless-sky/endless-sky-high-dpi/releases/download/continuous/High-DPI-Continuous.zip
   iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
