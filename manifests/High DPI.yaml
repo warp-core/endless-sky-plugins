@@ -11,5 +11,5 @@ url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/v0.10
 iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/v0.10.6/icon.png
 autoupdate:
   type: tag
-  url: https://github.com/endless-sky/endless-sky-high-dpi/archive/refs/tags/$version.zip
+  url: https://github.com/endless-sky/endless-sky-high-dpi/releases/download/$version/High-DPI.zip
   iconUrl: https://github.com/endless-sky/endless-sky-high-dpi/raw/$version/icon.png
